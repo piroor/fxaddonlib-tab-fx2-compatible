@@ -6,11 +6,8 @@
    <?xul-overlay href="tabFx2Compatible.xul"?>
 
  license: The MIT License, Copyright (c) 2009-2011 YUKI "Piro" Hiroshi
-   http://github.com/piroor/fxaddonlibs/blob/master/license.txt
  original:
-   http://github.com/piroor/fxaddonlibs/blob/master/tabFx2Compatible.xul
-   http://github.com/piroor/fxaddonlibs/blob/master/tabFx2Compatible.xml
-   http://github.com/piroor/fxaddonlibs/blob/master/tabFx2Compatible.css
+   http://github.com/piroor/fxaddonlib-tab-fx2-compatible
 -->
 <?xml-stylesheet href="tabFx2Compatible.css" type="text/css"?>
 <overlay xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
